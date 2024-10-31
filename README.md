@@ -127,6 +127,3 @@ Yes, you can use the algorithms from this repository in your own projects. Howev
 
 ### 7. Who can I contact for more questions?
 For further questions or inquiries, feel free to open an issue in the repository or contact me directly through my GitHub profile.
-
-### 8. Is there a Code of Conduct for this repository?
-Yes, please refer to our [Code of Conduct](link-to-code-of-conduct) to ensure a positive and respectful environment for all contributors and users.
