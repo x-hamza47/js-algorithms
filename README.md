@@ -38,7 +38,7 @@ git clone https://github.com/x-hamza47/js-algorithms.git
 ![App Screenshot](https://amincharoliya.com/images/articles/js-algorithm.png)
 
 
-## Usage/Examples 📦
+## Usage 📦
 
 To use the algorithms in this repository, you can import them into your JavaScript files. Here are a few examples:
 
